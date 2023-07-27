@@ -2,6 +2,7 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import '../src/console-overview-template';
 import { Button, Form } from '@govtechsg/sgds-react';
+
 export default function Home() {
   return (
     <div className={styles["console-template-container"]}>
@@ -31,6 +32,7 @@ export default function Home() {
         <h1>Section 1</h1>
       </div>
     </console-overview-template>
+    <console-footer></console-footer>
     </div>
   );
 }
