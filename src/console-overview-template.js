@@ -35,17 +35,6 @@ export class ConsoleOverviewTemplate extends LitElement {
   }
    `;
 
-  static properties = {
-    name: {},
-    count: { type: Number },
-  };
-
-  constructor() {
-    super();
-    this.name = 'Somebody';
-    this.count = 0;
-  }
-
   render() {
     return html`
     <div class="container">
