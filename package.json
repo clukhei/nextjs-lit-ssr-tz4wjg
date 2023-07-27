@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@govtechsg/sgds-react": "^2.2.0",
     "@lit-labs/nextjs": "^0.1.0",
     "lit": "^2.7.0",
     "next": "^13.0.6",

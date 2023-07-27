@@ -1,3 +1,5 @@
+@import url('https://designsystem.gov.sg/css/sgds.css');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
 html,
 body {
   padding: 0;
