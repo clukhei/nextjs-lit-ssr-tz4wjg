@@ -32,7 +32,6 @@ export default function Home() {
         <h1>Section 1</h1>
       </div>
     </console-overview-template>
-    <console-footer></console-footer>
     </div>
   );
 }
