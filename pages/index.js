@@ -9,7 +9,7 @@ export default function Home() {
       <span slot="title">Title of Page</span>
       <span slot="action-button">
         <Button slot="action-button" variant="info">
-        <i class="bi bi-plus-circle me-2"></i>
+        <i className="bi bi-plus-circle me-2"></i>
           Create new product
         </Button>
       </span>
@@ -23,7 +23,7 @@ export default function Home() {
       </span>
       <span slot="filter-button">
         <Button variant="outline-dark">
-        <i class="bi bi-sliders me-2"></i>
+        <i className="bi bi-sliders me-2"></i>
           Refine search
         </Button>
       </span>
