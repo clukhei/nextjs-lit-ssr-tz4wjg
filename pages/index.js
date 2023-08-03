@@ -17,7 +17,7 @@ export default function Home() {
         <template-header-bottom>
           <Form>
             <Form.Group
-              classNameName="mb-3"
+              className="mb-3"
               controlId="exampleForm.ControlInput1"
             >
               <Form.Label>Search</Form.Label>
